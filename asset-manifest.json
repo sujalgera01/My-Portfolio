@@ -1,13 +1,13 @@
 {
   "main.css": "/My-Portfolio/static/css/main.988dd51b.chunk.css",
-  "main.js": "/My-Portfolio/static/js/main.c6070248.chunk.js",
-  "main.js.map": "/My-Portfolio/static/js/main.c6070248.chunk.js.map",
+  "main.js": "/My-Portfolio/static/js/main.9e42e1c6.chunk.js",
+  "main.js.map": "/My-Portfolio/static/js/main.9e42e1c6.chunk.js.map",
   "static/js/1.064ab7e5.chunk.js": "/My-Portfolio/static/js/1.064ab7e5.chunk.js",
   "static/js/1.064ab7e5.chunk.js.map": "/My-Portfolio/static/js/1.064ab7e5.chunk.js.map",
   "runtime~main.js": "/My-Portfolio/static/js/runtime~main.aa9d0237.js",
   "runtime~main.js.map": "/My-Portfolio/static/js/runtime~main.aa9d0237.js.map",
   "static/media/resume.pdf": "/My-Portfolio/static/media/resume.7c0add1f.pdf",
-  "static/media/profile.jpg": "/My-Portfolio/static/media/profile.a9bc3404.jpg",
+  "static/media/sujal.png": "/My-Portfolio/static/media/sujal.7497972f.png",
   "static/media/about.jpg": "/My-Portfolio/static/media/about.238933a0.jpg",
   "static/media/portfolio3.jpg": "/My-Portfolio/static/media/portfolio3.ce79413f.jpg",
   "static/media/portfolio2.jpg": "/My-Portfolio/static/media/portfolio2.13db5e22.jpg",
@@ -17,6 +17,6 @@
   "static/media/portfolio6.jpg": "/My-Portfolio/static/media/portfolio6.32a90284.jpg",
   "static/css/main.988dd51b.chunk.css.map": "/My-Portfolio/static/css/main.988dd51b.chunk.css.map",
   "index.html": "/My-Portfolio/index.html",
-  "precache-manifest.d47f3c66f74dfb82041746524aaf0235.js": "/My-Portfolio/precache-manifest.d47f3c66f74dfb82041746524aaf0235.js",
+  "precache-manifest.4afec27f660d03ac31e1cdb5dc1c6ba3.js": "/My-Portfolio/precache-manifest.4afec27f660d03ac31e1cdb5dc1c6ba3.js",
   "service-worker.js": "/My-Portfolio/service-worker.js"
 }
